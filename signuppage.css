@@ -1,0 +1,63 @@
+body{
+margin: 0;
+padding: 0;
+  
+background-image: url(https://encrypted-
+tbn0.gstatic.com/images?q=tbn:ANd9GcRK7WGr5Q_RmOo-hW_oCofdXRBo6MsypuS-
+XOwWk0offGqiz3yJ0xO8uD5uSbXhYgbmrP8&usqp=CAU);
+background-size: cover;
+}
+body h1{
+text-align: center;
+font-size: 25px;
+}
+.container{
+top: 50%;
+left: 45%;
+position: absolute;
+transform: translate(-50%,-50%);
+}
+.card{
+width: 200px;
+height: 240px;
+padding: 30% 40% 40% 30%;
+background: rgb(50, 50, 50);
+border-radius: 10px;
+}
+card h2{
+color: white;
+}
+#name{
+width: 200px;
+border: none;
+background: transparent;
+border-bottom: 1px solid white;
+padding: 10px;
+margin: bottom 15px;px;
+color: white;
+}
+#button{
+    border-radius: 20px;
+    border: 20px;
+    padding: 10px 20px;
+    background-color: dodgerblue;
+    
+    color:white ;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    margin-left: 60px;
+}
+a{
+    font-size: 12pz;
+ }
+img{
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -30%;
+    }
+#button:hover{
+    background-color: greenyellow;
+    color:
+    }
